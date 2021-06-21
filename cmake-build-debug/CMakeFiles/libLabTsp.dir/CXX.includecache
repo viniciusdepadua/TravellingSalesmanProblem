@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../lib/TspReader.h
+fstream
+-
+sstream
+-
+string
+-
+cctype
+-
+vector
+-
+cmath
+-
+iostream
+-
+
+/home/vinicius/ITA/CES-12/Lab/labTSP210531_1502/lib/TspReader.cpp
+TspReader.h
+-
+

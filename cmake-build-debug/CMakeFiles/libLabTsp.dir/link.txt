@@ -1,0 +1,2 @@
+/usr/bin/ar qc liblibLabTsp.a CMakeFiles/libLabTsp.dir/lib/TspReader.cpp.o
+/usr/bin/ranlib liblibLabTsp.a

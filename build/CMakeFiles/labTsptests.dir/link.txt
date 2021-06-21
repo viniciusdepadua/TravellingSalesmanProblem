@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/labTsptests.dir/test/testTsp.cpp.o CMakeFiles/labTsptests.dir/src/TspSolver.cpp.o  -o labTsptests  lib/libgtest.a lib/libgtest_main.a liblibLabTsp.a lib/libgtest.a -lpthread 

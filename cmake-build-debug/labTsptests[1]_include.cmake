@@ -1,0 +1,5 @@
+if(EXISTS "/home/vinicius/ITA/CES-12/Lab/labTSP210531_1502/cmake-build-debug/labTsptests[1]_tests.cmake")
+  include("/home/vinicius/ITA/CES-12/Lab/labTSP210531_1502/cmake-build-debug/labTsptests[1]_tests.cmake")
+else()
+  add_test(labTsptests_NOT_BUILT labTsptests_NOT_BUILT)
+endif()
